@@ -1,0 +1,14 @@
+defaultPortal: Asfand
+portals:
+  - name: Asfand
+    portalId: 22786773
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CPyoiLLrMBIJAA0AAAAA4A0DGNXl7gogwuu6Fiju6QwyFOgY0LSxWIoEyAFH-pyZTE07_1sfOjcAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgAAAAAAAAAAAAAAAAADACQhRXp8t4U1qlwr9SueAhJkXvmPRG_koDbmExUgBaAA
+        expiresAt: '2023-03-06T09:30:29.373Z'
+    personalAccessKey: >-
+      CiRjMGQxNGNmNi03ZWU4LTRhY2EtYjllMy1jNGU4ZDNkNGFlMWQQ1eXuChjC67oWKhkABeaRgrw5muWrbyNzK7nClxDHv87zymtUSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
